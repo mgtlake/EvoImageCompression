@@ -1,5 +1,5 @@
 # EvoImageCompression
-An image compression algorithm that uses evolutionary/genetic programming techniques. 2013 Young ICT Explorers State Finalist.
+An image compression algorithm that uses evolutionary/genetic programming techniques. 2013 Young ICT Explorers State Finalist. See [Wiki](https://github.com/matthew-lake/EvoImageCompression/wiki) for details.
 
 ## About
 I wrote this with [Joseph Garrone](https://github.com/josephgarrone) for the 2013 Young ICT Explorers competition, where it was a state finalist. The aim of this algorithm was to create a lossless but space-efficient image compression algorithm, in in that we largely succeeded, storing lossless images with filesizes 10 - 15% smaller than compressed PNGs. In hindsight, however, we probably bit off more than we could chew, with very lengthy running times.
